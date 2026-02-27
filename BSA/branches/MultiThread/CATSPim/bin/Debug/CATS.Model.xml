@@ -1,0 +1,2896 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CATS.Model
+</name>
+</assembly>
+<members>
+<member name="T:CATS.Model.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CATS.Model.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CATS.Model.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.algo_item">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.algo_value">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main.validation_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main_detail.algo_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main_detail.algo_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.algo_para_main_detail.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.band_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.freq_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.vendor_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.c1_power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.c2_power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.c1_freqs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.c2_freqs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.imd_order">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.imd_freqs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.imd_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.plot_color">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.create_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_cfbox.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.band_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.freq_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.vendor_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.c1_power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.c2_power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.c1_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.c2_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.imd_order">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.imd_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.duration_sec">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.imd_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.plot_color">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.create_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_ffbox.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.cfg_imd_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.action_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_log.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.freq_band">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.sfbox_ids">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.ffbox_ids">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.cfbox_ids">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.create_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.band_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.freq_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.vendor_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.ufreq_step">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.imd_order">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.imd_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.imd_side">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.ufreq_fixed">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.ufreq_start">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.ufreq_stop">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.uplot_color">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.dfreq_fixed">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.dfreq_start">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.dfreq_stop">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.dplot_color">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.create_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_sfbox.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.cfg_spara_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.channel_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.freq_start">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.freq_stop">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.freq_segments">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.points_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.reference">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.scale">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.ifbw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.attenuator">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.elec_delay">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.limit_lines">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.marker_idxs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.marker_freqs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.sweep_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.trace_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.trace_layout">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_channel.cal_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.stat_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.stat_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.channel_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_main.channel_layout">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_trace.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_trace.cfg_spara_channel_id">
+ <summary>
+ cfg_spara_channel_id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_trace.trace_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_trace.spara">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_spara_trace.meas_fmt">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.location">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.owner_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.controller.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.criteria_item">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.limit_low">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.limit_up">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.limit_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.limit_inherit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main_detail.criteria_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.criteria_main_detail.criteria_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.customer.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.customer.cust_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.customer.cust_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.customer.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.emp_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.login_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.permission">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.department">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.pwd">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.user_level">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee_func.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee_func.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.employee_func.func_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.factory.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.factory.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.factory.code">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.factory.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.freq_band">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.create_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.cfg_imd_freq_band.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.func_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.func_main.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.func_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.func_main.permission">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.group_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.group_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.message">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.group_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.cfg_imd_freq_band_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.cfg_imd_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.algo_para_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.criteria_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.imd_debug_para.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.instr_model_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.instr_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.fw_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.hw_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.entry_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.location">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_main.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.model_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.start_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.stop_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_model.instr_vendor_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.full_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.addr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.phone">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.mail">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.instr_vendor.postalcode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.description">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.log_action.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_model">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_sn">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_hw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_fw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_tilt_min">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_tilt_max">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_assy_part.part_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.criteria_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_item">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_ll">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_ul">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_value">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.meas_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_criteria.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.meas_group_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.meas_value">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.meas_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.meas_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.plot_path">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.trace_path">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.test_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.last_test_flag">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.meas_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m4">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m5">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m6">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m7">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m8">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_detail_extend.m9">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.group_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.group_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.test_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.last_test_flag">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_group.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_instr.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_instr.instr_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_instr.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_instr.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_instr.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.product_sn_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.product_mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.mode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.start_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.stop_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.duration_minute">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.meas_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.meas_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.phase">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.phase_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.software_rev">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.forced_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.start_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.stop_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.conn_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.meas_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.setup_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.total_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_phase.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.meas_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.trace_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.trace_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.spara">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.meas_fmt">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.points_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.x1_data">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.y1_data">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.y2_data">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.meas_trace.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode.mode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode.function_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.product_mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.mode_spec.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.phase">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.function_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.class_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.phase_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.freq_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.freq_start">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.freq_stop">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.freq_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.points_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.gen4">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_frequency.gen5">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.action_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.stuffer_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.stuffer_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_log.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.customer_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.product_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.cust_product_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.product_ver">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.product_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.family">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.sn_format">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.sn_check">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.port_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.dwtilt_enable">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.dwtilt_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.dwtilt_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.dwtilt_mode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.function_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_mode.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.port_order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.port_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.band_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.prod_freq_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.ret_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.ret_min">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.ret_max">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_port.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.band_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.ret_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.freq_start">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.freq_stop">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.port_idxs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.paras">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.table_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_ret_map.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.product_serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.register_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.sn_status_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_sn.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.wo_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.wo_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.register_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.product_wo_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.product_sn_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.product_wo_sn.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.serialnum_status.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.serialnum_status.status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.serialnum_status.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.group_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.meas_item">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.limit_low">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.limit_up">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.limit_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.limit_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.cust_limit_low">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.cust_limit_up">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.cust_limit_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.cust_limit_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.meas_required">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.dwtilt_idxs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.dwtilt_angs">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.message">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.invalidation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.cfg_imd_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.port_to">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.vibe_enable">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_imd_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.action_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_log.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.only_test">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.manual_enable">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.allow_cust_limit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.invalidate_phase_ids">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.spec_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.spec_revision">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.spec_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.change_note">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_algo_para.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_algo_para.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_algo_para.algo_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_criteria.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_criteria.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_main_criteria.criteria_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.stat_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.channel_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.trace_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.spara">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.meas_fmt">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.capture">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.points_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.ifbw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.power">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.test_group">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.test_order">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.scale">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.elec_delay">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.tdr_enable">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.port1_to">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.port2_to">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.port3_to">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.port4_to">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.trans_start_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.trans_stop_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.trans_on">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.trans_lowpass">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.trans_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gate_start_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gate_stop_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gate_on">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.spec_spara_detail_tdr.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.para_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.para_value">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:CATS.Model.system_cfg.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+</members>
+</doc>

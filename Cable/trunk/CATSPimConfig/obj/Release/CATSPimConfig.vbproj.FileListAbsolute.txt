@@ -1,0 +1,10 @@
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\bin\Release\CATSPimConfig.dll
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\bin\Release\CATSPimConfig.pdb
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\bin\Release\CATSPimConfig.xml
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.vbprojResolveAssemblyReference.cache
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.Resources.resources
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.vbproj.GenerateResource.Cache
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.vbproj.CoreCompileInputs.cache
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.dll
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.xml
+C:\Users\fenzhang\Documents\01CATS\01CATS Pim\Heliax\trunk\CATSPimConfig\obj\Release\CATSPimConfig.pdb

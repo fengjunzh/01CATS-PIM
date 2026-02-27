@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestInterfaceExample.FrmMain.resources
+obj\Debug\TestInterfaceExample.vbproj.GenerateResource.Cache
+obj\Debug\TestInterfaceExample.exe
+obj\Debug\TestInterfaceExample.xml
+obj\Debug\TestInterfaceExample.pdb
+.\bin\TestInterfaceExample.exe
+.\bin\TestInterfaceExample.xml
+.\bin\RFPATestInterface.dll
+.\bin\RFPATestInterface.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TestInterfaceExample.FrmMain.resources
+obj\Release\TestInterfaceExample.vbproj.GenerateResource.Cache
+obj\Release\TestInterfaceExample.exe
+obj\Release\TestInterfaceExample.xml
+.\bin\TestInterfaceExample.pdb
+.\bin\RFPATestInterface.pdb

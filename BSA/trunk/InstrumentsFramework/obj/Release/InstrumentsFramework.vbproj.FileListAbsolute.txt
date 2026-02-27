@@ -1,0 +1,258 @@
+C:\Source Code\Viper Test V1.60\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.60\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Test V1.60\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.60\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Test V1.60 - VS2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.60 - VS2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Test V1.60 - VS2010\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.60 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Test V1.61 - VS2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.61 - VS2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Test V1.61 - VS2010\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Test V1.61 - VS2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+D:\LCY\Viper\Viper 1.61 2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+D:\LCY\Viper\Viper 1.61 2010\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+D:\LCY\Viper\Viper 1.61 2010\AssemblyRoot\AndrewIntegratedProducts.xml
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\ResolveAssemblyReference.cache
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+D:\LCY\Viper\Viper 1.61 2010\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\TestApplications\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\TestApplications\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\TestApplications\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\ResolveAssemblyReference.cache
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\TestApplications\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\TestApplications\Viper I\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\TestApplications\Viper I\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\TestApplications\Viper I\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\ResolveAssemblyReference.cache
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\ResGen.read.1.tlog
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\ResGen.write.1.tlog
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\TestApplications\Viper I\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\_Software\Viper\Code\Unit\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\_Software\Viper\Code\Unit\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\_Software\Viper\Code\Unit\Viper Unit Level\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\ResolveAssemblyReference.cache
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\ResGen.read.1.tlog
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\ResGen.write.1.tlog
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\_Software\Viper\Code\Unit\Viper Unit Level\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Source Code\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Source Code\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Documents\TempSrc\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Documents\TempSrc\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Documents\TempSrc\EXT-SBT test\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Documents\TempSrc\EXT-SBT test\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Documents\TempSrc\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Documents\TempSrc\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Documents\TempSrc\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Documents\TempSrc\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\AssemblyRoot\AndrewIntegratedProducts.xml
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\01BSA_RD_Pilot\PIM\Huanghua\Diplexer test\Diplexer test\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\bin\Debug\NationalInstruments.Common.xml
+C:\Work\02Project\02Automation_Projects\002Antenna_PimTest\Antenna_PimTest\InstrumentsFramework\bin\Debug\NationalInstruments.VisaNS.xml
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\bin\Debug\NationalInstruments.VisaNS.xml
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\ResolveAssemblyReference.cache
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\GenerateResource.read.1.tlog
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\GenerateResource.write.1.tlog
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+D:\bliu\Project\SiteRisePimTest_Project\003SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\NationalInstruments.Common.xml
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\003SiteRisePimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\NationalInstruments.Common.xml
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\99TestSupport\002SiteRise\01Software\01PimTest\SiteRisePimTest\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\Interop.SummitekPIM.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AxInterop.SummitekPIM.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\bin\Debug\Interop.SummitekPIM.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\InstrumentsFramework\bin\Debug\AxInterop.SummitekPIM.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\InstrumentsFramework\PIMAnalyzer\InstrumentsFramework\obj\Release\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AxInterop.SummitekPIM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Ivi.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\NationalInstruments.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Renci.SshNet.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\SeaMAX Dot Net.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Ivi.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\NationalInstruments.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\SeaMAX Dot Net.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\Interop.an3gppxLib.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.GenerateResource.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.CoreCompileInputs.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\InstrumentsFramework.vbproj.CopyComplete
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AxInterop.SummitekPIM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Ivi.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Common.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.VisaNS.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Renci.SshNet.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\SeaMAX Dot Net.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Ivi.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\SeaMAX Dot Net.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.NiLmClientDLL.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.MStudioCLM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Common.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.VisaNS.xml

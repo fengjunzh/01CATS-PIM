@@ -1,0 +1,21 @@
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbprojResolveAssemblyReference.cache
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\Interop.an3gppxLib.dll
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.CoreCompileInputs.cache
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.xml
+C:\Users\fenzhang\Documents\CATS\CATS Pim\Heliax\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb

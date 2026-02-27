@@ -1,0 +1,345 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AndrewIntegratedProducts.InstrumentsFramework-2.0
+</name>
+</assembly>
+<members>
+<member name="M:AndrewIntegratedProducts.InstrumentsFramework.SignalGenerator_AgilentESGE4438C.ARB_DownloadWaveform(System.String[],AndrewIntegratedProducts.InstrumentsFramework.ISignalGenerator_ARB.ARBMemory,System.Boolean)">
+	<summary>
+ Download the waveform in ARB, if InterleavedData parameter is false, FileName is an array of three items, I file name, Q filename and interleaved output filename.
+ If InterleavedData is true, only one item is necessary, the name of the file already formatted
+ </summary>
+	<param name="FileName"></param>
+	<param name="ARBMemory"></param>
+	<param name="InterleavedData"></param>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.SignalGenerator_AgilentESGE4438C.ARB_SetupWaveform(System.String,System.Boolean)">
+	<summary>
+ Load the waveform file indicated by FileName, if the FileNAme conatins a WIN Path, it parses the file by removing folder path and extention,
+ If InterleavedData is true, in case the waveform is not present it searches for a IQ file, otherwise it loos for file finishing with _i and _q
+ </summary>
+	<param name="FileName"></param>
+	<param name="InterleavedData">If true, in case the waveform is not present it searches for a IQ file, otherwise it loos for file finishing with _i and _q</param>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.ErrorStatus">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.FTPClientObject">
+	<summary>
+	</summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.Address">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.FTPCurrentFolder">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.GetErrorProcessing">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.ClearErrorProcessing">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPUploadProcessingThread.UploadThread">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.Utilities.ParseFile(System.String,AndrewIntegratedProducts.InstrumentsFramework.Utilities.FileSystem)">
+	<summary>
+ Return a parsed file separated in path and file name in an array 
+ </summary>
+	<param name="FullPathFile"></param>
+	<param name="FileSystemType"></param>
+	<returns>String array of two items, first item the path, second is the file name</returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.DownloadLocalFileName">
+	<summary>
+ File name and path of the file on the client used during the downlaod
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.GetStringData(System.String)">
+	<summary>
+ Get server answer for the command previously sent,CommandNumberRespose is the code number
+ of the server server answer
+ </summary>
+	<param name="CommandNumberRespose"></param>
+	<returns>Answer of server</returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.GetStringData(System.String,System.String)">
+	<summary>
+ Get server answer for the command previously sent, CommandNumberRespose is the code number
+ of the server server answer, SecondCodeOptionOrErrorCode is a possible second optional code or an error code
+ </summary>
+	<param name="CommandNumberRespose"></param>
+	<returns>Answer of server</returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.Upload">
+	<summary>
+ Upload the file indicated by the property UploadFileName to the ftp server
+ on the current selected directory, overwrite by deleting the current file if
+ the property upload overwrite is true 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.DeleteFile(System.String)">
+	<summary>
+ Delete file on ftp server, return false if it is not successful
+ </summary>
+	<param name="FileName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.GetLastError">
+	<summary>
+ Returns the last error string generated during the processing of the FTP client class methods
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.ClearError">
+	<summary>
+ Clear the error string of the FTP client
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.DownloadFileName">
+	<summary>
+ File Name And Path location on the FTP server during the downloading 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.UploadFileName">
+	<summary>
+  File Name And Path location on the FTP client during the uploading 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.UploadOverwrite">
+	<summary>
+ If true ftp client will overwrite the file on the FTP server if it already exists
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.FileExistOnServer(System.String)">
+	<summary>
+ Checks if the file exist on the server
+ </summary>
+	<param name="FullPathFile"></param>
+	<returns>return false if file not present</returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.FTPClient.GetLengthFileOnServer(System.String)">
+	<summary>
+ Query the list of file in the folder indicated in the path and gets the length of file,
+ return zero if file not present
+ </summary>
+	<param name="FullPathFileName"></param>
+	<returns>length of a file as long, returns zero if folder of file not present</returns>
+	<remarks> ONLY file name without space!</remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.ErrorStatus">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.IQFile">
+	<summary>
+	</summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.IFile">
+	<summary>
+	</summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.QFile">
+	<summary>
+	</summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.GetErrorProcessing">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.ClearErrorProcessing">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.IQFileProcessingThread.IQDataGenerationThread">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SCPIInstrument.Timeout">
+	<summary>
+ Timeout in msec for Visa or Telnet Communication
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_ACPGetResults">
+	<summary>
+ This function queries the Spectrum analyzer by fetching the ACP dBc relative power results for each bandwidth and the dBm power of the carrier bandwidth.
+ It is necessary to trigger the instrument by SystemMode_TriggerAndWait before calling this function otherwise old data are given back 
+ </summary>
+	<returns>Double Array of 11x2 values that contain in the order the dBc relative power level of the main carrier and the dBm absolute power of main carrier, neg ACLR1, pos ACLR1, neg ACLR2, pos ACLR2... neg ACLR5 and pos ACLR5.
+ In case of -999 values the offset has not been selected for this measurement</returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_MCPActivatedFrequencyList">
+	<summary>
+ Set or Get the frequency offset measured during Multi Carrier Power Measurement
+ </summary>
+	<value>The value is an enum that indicates all frequency offset (ALL), third-fifth-seventh offset(TFS), third order intermodulation (TOI)</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_MCPBaseFrequenciesDelta">
+	<summary>
+ Set or Get the Delta Frequency between the carriers in Multiple Carrier Power Measurement
+ </summary>
+	<value>The delta is expressed im MHz and the possible values are: -15,-10,-5,5,10,15</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_MCPGetResults">
+	<summary>
+ This function queries the Spectrum Analyzer by fetching the MCP dBc relative power level of the carrier bandwidths and the dBm absolute power 
+ It is necessary to trigger the instrument by SystemMode_TriggerAndWait before calling this function otherwise old data are given back 
+ </summary>
+	<returns>Double Array of 8x2 values that contains in the order the dBc and dBm power of the first and second carrier and 
+ the relative dBc and dBm power of neg ACLR1, pos ACLR1, neg ACLR2, pos ACLR2... neg ACLR3 and pos ACLR3.
+ In case of -999 values the offset has not been selected for this measurement</returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_MCPMeasurementReference">
+	<summary>
+ Set or get the carrier reference for Multi Carrier Measurement, it can be automatic, average, lower carrier or upper carrier
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_MCPRelativePowerList">
+	<summary>
+ Set or Get the list specifing the relative Power Limit Mask for MCP measurement, example: "-47,-50,-50,-50"
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_OccupiedBandwidthSpan">
+	<summary>
+ Set or Get the Span used during Ocuppied Bandwidth measurement
+ </summary>
+	<value>Span is in MHz and between 0.10 and 10 MHz</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMActivatedFrequencyList">
+	<summary>
+ Set or Get the list of 1 and 0 specifing which integration bandwidth to activate in SEM measurement
+ </summary>
+	<value>Example value is: "1,1,1,0,0"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMGetResults">
+	<summary>
+ This function queries the Spectrum Analyzer by fetching the peak and absolute power level for each SEM integration bandwidth.
+ It is necessary to trigger the instrument by SystemMode_TriggerAndWait before calling this function otherwise old data are given back 
+ </summary>
+	<returns>Double Array 11x3 , the first column contains absolute power for each integration bandwidth,
+ the second column contains the peak absolute power for each integration bandwidth,
+ the third column contains the peak frequency for each integration bandwidth.
+ The first row contains the central bandwidth (only absolute value),the second one the negative offset A, the third one the positive offset A... up to region E
+ If an integration bandwidth is not selected, the value is -999</returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMRBWList">
+	<summary>
+ Set or Get the list of the offset resoultion bandwidth for each integration bandwidth in SEM measurement
+ </summary>
+	<value>Example value is: "30 kHz,30 kHz,30 kHz,1 MHz,1 MHz"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMRBWMultiplierList">
+	<summary>
+ Set or Get the list specifing the multiplier of the offset resoultion bandwidth for each integration bandwidth in SEM measurement
+ </summary>
+	<value>Example value is: "1,1,1,1,1"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMSideBandSetupList">
+	<summary>
+ Get or Set the list specifing the sideband for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "POS,NEG,BOTH,NEG,NEG"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMStartAbsolutePowerList">
+	<summary>
+ Set or Get the list specifing the Start Absolute Power Level for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "-14,-14,-26,-15,-15"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMStartFrequencyList">
+	<summary>
+ Set or Get the list specifing the Start Frequency for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "2.515 MHz,2.715 MHz,3.515 MHz,4 MHz,12.5 MHz"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMStopAbsolutePowerCouplingList">
+	<summary>
+ Set or Get the list specifing whether or not to couple the offset stop absolute power limit to
+ the offset start absolute power limit for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "1,0,1,1,1"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMStopAbsolutePowerList">
+	<summary>
+ Set or Get the list specifing the Stop Absolute Power Level for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "-14,-26,-26,-15,-15"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_SEMStopFrequencyList">
+	<summary>
+ Set or Get the list specifing the Stop Frequency for each integration bandwidth in SEM
+ </summary>
+	<value>Example value is: "2.715 MHz,3.515 MHz,4 MHz,12.5 MHz,13 MHz"</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AndrewIntegratedProducts.InstrumentsFramework.SpectrumAnalyzer_AgilentPSAE4445A.WCDMAMode_EVMGetResults">
+	<summary>
+ This function queries the Spectrum Analyzer by fetching the EVM data results.
+ It is necessary to trigger the instrument by SystemMode_TriggerAndWait before calling this function otherwise old data are given back 
+ </summary>
+	<returns>Index 0 contains EVM RMS, index 1 PCDE, index 2 frequency error</returns>
+	<remarks></remarks>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

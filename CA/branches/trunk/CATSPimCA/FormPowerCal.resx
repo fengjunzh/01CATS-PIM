@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="fgInstrument.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Microsoft Sans Serif, 9.75pt, style=Bold;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;BackgroundImageLayout:Hide;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{ForeColor:GrayText;}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	SelectedColumnHeader{}	SelectedRowHeader{}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	FilterEditor{}	FirstCustomStyle{}	</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnRefresh.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH4QYaAB4zyrl+FQAAAh5JREFU
+        SEu91U2oDWEcx/HjLRd5d6VIForiJhuxQN3s2CghC7peCjskd6WUrNylskR52Vh5WbEhsqCQvBXdrY13
+        5Z3v9zTP9D9zzsycu+BXn86c58ycZ+Z5+U9jBJmImZiFSTaMJHPQj5XosSGL7ZtxCjfwIHMTp7ENc1GZ
+        CbiI7/iA7VnbXjzED/wp8RNPcADT0DGz8Rjpoku4AC+Of1blN65gEdpiB95pOvlbOE5e4zKGcBLexHP8
+        QjzvHhajJcUOolc4iAUYi5TRcOz34wXiNdcxA3nKOviIE1iN8ShLH24hXnsEeco68PEdrs9wtVRlCZ4h
+        XfsSPnUzvXiE+OdFR1GXXUgLw0nfgWZc92fgnX7q4A02oi7e6H3YgU/f8tTu0BVYBTdb4nfHeBy6yVqc
+        xSCm2PAvMir7/L+xNOyD9WWNDV1kDBZieQfLMB15NuArnCCXrEWuLuswjHd4W/AezoUVuJktSNveTwtd
+        Xdzhnl/G+uYea2YeniL96PZ39VRlE77AtV+sSXIk8g7MIbhB0gm3sRRlsXz4DjkOhyX+udo6cFKuIp5k
+        xdwD5yQuP49t24lY6qO2Doyl1pIbT0wvFXf7sYzHthXfGb600nHHDoydXEO8sBs+/fnwvWWSi7GeH4ZD
+        FOelyN+snJaGqdgK65eT7htuMiozHwNwSO7Ax9ZdnMNu5GWZuGHdqOsR22vjpHqHVkx57FutJo3GX4H2
+        5VlrweB1AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="chartPIM.PropBag" xml:space="preserve">
+    <value>&lt;?xml version="1.0"?&gt;&lt;Chart2DPropBag Version="4.0.20111.21027"&gt;&lt;StyleCollection&gt;&lt;NamedStyle Name="AxisY2" ParentName="Area" StyleData="AlignHorz=Far;AlignVert=Center;Rotation=Rotate90;" /&gt;&lt;NamedStyle Name="Header" ParentName="Control" StyleData="Border=None,Transparent,1;" /&gt;&lt;NamedStyle Name="Legend" ParentName="Legend.default" /&gt;&lt;NamedStyle Name="PlotArea" ParentName="Area" StyleData="Border=None,Transparent,1;" /&gt;&lt;NamedStyle Name="AxisX" ParentName="Area" StyleData="AlignHorz=Center;AlignVert=Bottom;ForeColor=ControlDarkDark;Rotation=Rotate0;" /&gt;&lt;NamedStyle Name="AxisY" ParentName="Area" StyleData="AlignHorz=Near;AlignVert=Center;ForeColor=ControlDarkDark;Rotation=Rotate270;" /&gt;&lt;NamedStyle Name="Area" ParentName="Area.default" StyleData="BackColor=Window;Border=Solid,ControlDark,1;Rounding=10 10 10 10;" /&gt;&lt;NamedStyle Name="LabelStyleDefault.default" ParentName="Control" StyleData="BackColor=Transparent;Border=None,Transparent,1;" /&gt;&lt;NamedStyle Name="LabelStyleDefault" ParentName="LabelStyleDefault.default" /&gt;&lt;NamedStyle Name="Control.default" ParentName="" StyleData="BackColor=Control;Border=None,Transparent,1;ForeColor=ControlText;" /&gt;&lt;NamedStyle Name="Control" ParentName="Control.default" StyleData="BackColor=Transparent;Border=Solid,ControlDark,1;Font=Microsoft Sans Serif, 9.75pt, style=Bold;" /&gt;&lt;NamedStyle Name="Footer" ParentName="Control" StyleData="Border=None,Transparent,1;" /&gt;&lt;NamedStyle Name="Legend.default" ParentName="Control" StyleData="AlignVert=Top;Border=None,Transparent,1;Wrap=False;" /&gt;&lt;NamedStyle Name="Area.default" ParentName="Control" StyleData="AlignVert=Top;Border=None,Transparent,1;" /&gt;&lt;/StyleCollection&gt;&lt;ChartGroupsCollection&gt;&lt;ChartGroup Name="Group1"&gt;&lt;DataSerializer DefaultSet="True"&gt;&lt;DataSeriesCollection&gt;&lt;DataSeriesSerializer&gt;&lt;LineStyle Color="LightPink" /&gt;&lt;SymbolStyle Color="LightPink" OutlineColor="DeepPink" Shape="Box" /&gt;&lt;SeriesLabel&gt;series 0&lt;/SeriesLabel&gt;&lt;X&gt;1;2;3;4;5&lt;/X&gt;&lt;Y&gt;20;22;19;24;25&lt;/Y&gt;&lt;DataTypes&gt;Single;Single;Double;Double;Double&lt;/DataTypes&gt;&lt;FillStyle /&gt;&lt;Histogram /&gt;&lt;/DataSeriesSerializer&gt;&lt;DataSeriesSerializer&gt;&lt;LineStyle Color="LightBlue" /&gt;&lt;SymbolStyle Color="LightBlue" OutlineColor="DarkBlue" Shape="Dot" /&gt;&lt;SeriesLabel&gt;series 1&lt;/SeriesLabel&gt;&lt;X&gt;1;2;3;4;5&lt;/X&gt;&lt;Y&gt;8;12;10;12;15&lt;/Y&gt;&lt;DataTypes&gt;Single;Single;Double;Double;Double&lt;/DataTypes&gt;&lt;FillStyle /&gt;&lt;Histogram /&gt;&lt;/DataSeriesSerializer&gt;&lt;DataSeriesSerializer&gt;&lt;LineStyle Color="LightGreen" /&gt;&lt;SymbolStyle Color="LightGreen" OutlineColor="DarkGreen" Shape="Tri" /&gt;&lt;SeriesLabel&gt;series 2&lt;/SeriesLabel&gt;&lt;X&gt;1;2;3;4;5&lt;/X&gt;&lt;Y&gt;10;16;17;15;23&lt;/Y&gt;&lt;DataTypes&gt;Single;Single;Double;Double;Double&lt;/DataTypes&gt;&lt;FillStyle /&gt;&lt;Histogram /&gt;&lt;/DataSeriesSerializer&gt;&lt;DataSeriesSerializer&gt;&lt;LineStyle Color="Orchid" /&gt;&lt;SymbolStyle Color="Orchid" OutlineColor="DarkOrchid" Shape="Diamond" /&gt;&lt;SeriesLabel&gt;series 3&lt;/SeriesLabel&gt;&lt;X&gt;1;2;3;4;5&lt;/X&gt;&lt;Y&gt;16;19;15;22;18&lt;/Y&gt;&lt;DataTypes&gt;Single;Single;Double;Double;Double&lt;/DataTypes&gt;&lt;FillStyle /&gt;&lt;Histogram /&gt;&lt;/DataSeriesSerializer&gt;&lt;/DataSeriesCollection&gt;&lt;Highlight /&gt;&lt;/DataSerializer&gt;&lt;/ChartGroup&gt;&lt;ChartGroup Name="Group2"&gt;&lt;DataSerializer&gt;&lt;Highlight /&gt;&lt;/DataSerializer&gt;&lt;/ChartGroup&gt;&lt;/ChartGroupsCollection&gt;&lt;Header Compass="North" Visible="False" /&gt;&lt;Footer Compass="South" Visible="False" /&gt;&lt;Legend Compass="East" Visible="False" /&gt;&lt;ChartArea LocationDefault="-1, -1" SizeDefault="-1, -1" PlotLocation="-1, -1" PlotSize="-1, -1"&gt;&lt;Margin /&gt;&lt;/ChartArea&gt;&lt;Axes&gt;&lt;Axis Max="5" Min="1" UnitMajor="1" UnitMinor="0.5" AutoMajor="True" AutoMinor="True" AutoMax="True" AutoMin="True" Compass="South"&gt;&lt;Text&gt;Axis X&lt;/Text&gt;&lt;GridMajor Visible="True" Spacing="1" /&gt;&lt;/Axis&gt;&lt;Axis Max="26" Min="8" UnitMajor="2" UnitMinor="1" AutoMajor="True" AutoMinor="True" AutoMax="True" AutoMin="True" Compass="West"&gt;&lt;Text&gt;Axis Y&lt;/Text&gt;&lt;GridMajor Visible="True" Spacing="2" /&gt;&lt;/Axis&gt;&lt;Axis Max="0" Min="0" UnitMajor="0" UnitMinor="0" AutoMajor="True" AutoMinor="True" AutoMax="True" AutoMin="True" Compass="East" /&gt;&lt;/Axes&gt;&lt;AutoLabelArrangement /&gt;&lt;VisualEffectsData&gt;45,1,0.6,0.1,0.5,0.9,0,0,0.15,0,0,1,0.5,-25,0,0,0,1,64,1;Group0=45,1,0.6,0.1,0.5,0.9,0,0,0.15,0,0,1,0.5,-25,0,0,0,1,64,1;Group1=45,1,0.6,0.1,0.5,0.9,0,0,0.15,0,0,1,0.5,-25,0,0,0,1,64,1&lt;/VisualEffectsData&gt;&lt;/Chart2DPropBag&gt;</value>
+  </data>
+  <data name="fgCalData.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Microsoft Sans Serif, 9.75pt, style=Bold;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;BackgroundImageLayout:Hide;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{ForeColor:GrayText;}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	SelectedColumnHeader{}	SelectedRowHeader{}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	FilterEditor{}	FirstCustomStyle{}	</value>
+  </data>
+  <data name="fgHistory.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Microsoft Sans Serif, 9.75pt, style=Bold;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;BackgroundImageLayout:Hide;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{ForeColor:GrayText;}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	SelectedColumnHeader{}	SelectedRowHeader{}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	FilterEditor{}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="StatusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="ToolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>133, 17</value>
+  </metadata>
+  <data name="btnSave.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALPSURBVDhPrY9bSNNhGMaX3RoG4nI1sznR6eZpBzXbGtqW
+        acqcmHmYZu5vqTgzs1TUMmWONGtYUkQLFbqJdTEiKiK9yKQiC0Q6apGssTy1OWfqdE9/x3AMb3vgx/fC
+        x/PjfSn/JRkZ+azaCxcrjCZTxdzcXPkWLJbyF0PDFSWlqlKFopzqrnmSIpERdQ2tsFhtWFtfh8OxhlWH
+        Y5O1dSeGR95CLi+xpqfnJbhrnojEaURNXQt+mWfx+eskjKbfsCws4g8p3MBqs2PkzShqamvtd3QDyo4O
+        rUBBVDHcdQolUSQhKqvrMfZxAuQpeD740rXF8srqJvalvxh9/8FpXbAt1rZ12jOzC2+R1W0uAVcgJpSn
+        z2Lk3ThOVZ7D42dDWFpexeLSshf2pRXMW2xobFZDmp7dvymIik0i8ovK8WTwNU4oVdAbnmJ6fgHmGYs3
+        sxZMmWZcW4olmR4BOyqRSBRKkZNXCumRbNx/8AjfjdOY+Gn2ZsqMT5NGVFY3IEmU6hGEsWIJFpuHOIEI
+        4pSjuDugx/g3I8a+TG1hdHwSG+fyE8QeAYPJJhihHPDiRTiYnIZi8oym1k40t13FJfV1Fy3t3Wi63IWG
+        Fg2kadmI4Qo9AhqdSeymh4ITLUB8UjIiogTIlOWisJhAgUIJ1ZnzqCZRllUhji8Ei81HJIfvEfj707L8
+        A/ZYQ8PC7NFxievM8BjUNzajtKwCx44roNc/hMFgQH//APYLD2Efk43Q8BiPgMzOgICAVIEgoSSEyf4R
+        FByOKlUNZPJcJEvSodPp0NfXhxs3e8HlHwCd/GcwIr0ErvB4PD9qIP0VNXAvSk4SzvyCYsiyctDdfQ1a
+        rRbqDg0iOFxQacGg0RlbBWR8fH39snbRgtoLi4qvqNXq3q6uLl1PT8/ABhqN5p7kcNptVmSMlh4cInd3
+        tgbAdqfTuYN8A0lCyDl8A/dMc//5UCgUyj9iKOOkaINA/gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnExit.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAE3SURBVDhPpZO/agJBEMYX3NlXsPQhUqTIXQSFoI2Cd0+V
+        Mi+QUivBPwn4AlaS1tZCUtjYmQspLvub2zsUyx0YmPvm+2ZmZ2/Nte3Mg6xbyWBp0+ncpsd36fzhxGDk
+        4AT6rS1Mr72U9G0lj+eNdMut9MsveVEnBiMHB26QVQawtsniU55VcHLj8uKysnC5OjEYOThwmyKMRFUS
+        ezdU8m8QXjsYOThw0ehxPlpPQ0ajuna1+eFHstdC8u+mgI8V8zk4cNGgNSubzDgfI9IFIpMVbpIVbnSq
+        fJKBkYMDV3fitYYNsyTtHrrVAv89wqvYFwxTwUWD1nBNjKTixulaCTHigDUcNGjjC0QfIXqJ0dcY/SNh
+        Ub9ybQBUZTTOx5IQ4MR6Zp+DcyeujZF4siyHDXNNODHY/XM25h9szagSYFOw8gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>239, 17</value>
+  </metadata>
+</root>

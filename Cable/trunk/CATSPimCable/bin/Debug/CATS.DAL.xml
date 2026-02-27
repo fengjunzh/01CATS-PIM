@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CATS.DAL
+</name>
+</assembly>
+<members>
+<member name="T:CATS.DAL.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CATS.DAL.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CATS.DAL.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CATS.DAL.cq_modesService.SelectValidityByProductMainId(System.Int32)">
+ <summary>
+ validation =true,validity =true
+ </summary>
+ <param name="product_main_id"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CATS.DAL.cq_modesService.SelectAllByProductMainId(System.Int32)">
+ <summary>
+ validation =true,validity = true or false
+ </summary>
+ <param name="product_main_id"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CATS.DAL.group_mainService.GetGroupMainInfoWithSpecDetails(System.Int32)">
+ <summary>
+ 04/29/2021 adam add for rliso spec setting optimization
+ </summary>
+ <param name="spec_main_id"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

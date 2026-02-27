@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\testmodules.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\testmodules.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formtest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formtest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CATSPimCable||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\testplan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\testplan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\globalvariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\globalvariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\frminterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\frminterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formtest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formtest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formretryreason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formretryreason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formretryreason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formretryreason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\frminterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\frminterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\clsoperatorinterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\clsoperatorinterface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\clsprocesscheck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\clsprocesscheck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9840C-39E9-472B-9EAC-F914CD04A094}|InstrumentsFramework\\InstrumentsFramework.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\instrumentsframework\\instruments\\vibration\\vibcontroller_jsb340x86.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{45D9840C-39E9-472B-9EAC-F914CD04A094}|InstrumentsFramework\\InstrumentsFramework.vbproj|solutionrelative:instrumentsframework\\instruments\\vibration\\vibcontroller_jsb340x86.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\jwmoduleapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\jwmoduleapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\frmnewcable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\frmnewcable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\frmnewcable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\frmnewcable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formdebug.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formdebug.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formgrr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formgrr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\catspimcable\\formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|solutionrelative:catspimcable\\formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\testinterface\\rfpatestinterface.net\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{54246C63-1D28-4776-A76D-BC8581F115F1}|TestInterface\\RFPATestInterface.NET\\RFPATestInterface.vbproj|solutionrelative:testinterface\\rfpatestinterface.net\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381BFF6-C211-4D2D-986F-D46FF1CF30EA}|CATSPimCable\\CATSPimCable.vbproj|c:\\users\\fenzhang\\onedrive - andrew\\documents\\01cats\\01cats pim\\cable\\trunk\\catspimcable\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|eda661ea-dc61-4750-b3a5-f6e9c74060f5"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormTest.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormTest.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormTest.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormTest.vb [Design]",
+              "RelativeToolTip": "CATSPimCable\\FormTest.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-22T03:33:15.241Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CATSPimCable",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\CATSPimCable.vbproj",
+              "RelativeDocumentMoniker": "CATSPimCable\\CATSPimCable.vbproj",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\CATSPimCable.vbproj",
+              "RelativeToolTip": "CATSPimCable\\CATSPimCable.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-08T05:43:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTest.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormTest.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormTest.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormTest.vb",
+              "RelativeToolTip": "CATSPimCable\\FormTest.vb",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAkwF4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-22T03:32:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormMain.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormMain.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormMain.vb",
+              "RelativeToolTip": "CATSPimCable\\FormMain.vb",
+              "ViewState": "AgIAADMAAAAAAAAAAAA5wFMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:10:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRetryReason.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormRetryReason.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormRetryReason.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\CATSPimCable\\FormRetryReason.vb [Design]",
+              "RelativeToolTip": "CATSPimCable\\FormRetryReason.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-22T04:06:21.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormConfig.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormConfig.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormConfig.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\CATSPimCable\\FormConfig.vb [Design]",
+              "RelativeToolTip": "CATSPimCable\\FormConfig.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-03T07:42:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VibController_Jsb340x86.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\InstrumentsFramework\\Instruments\\Vibration\\VibController_Jsb340x86.vb",
+              "RelativeDocumentMoniker": "InstrumentsFramework\\Instruments\\Vibration\\VibController_Jsb340x86.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\InstrumentsFramework\\Instruments\\Vibration\\VibController_Jsb340x86.vb",
+              "RelativeToolTip": "InstrumentsFramework\\Instruments\\Vibration\\VibController_Jsb340x86.vb",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAQwCgBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T07:26:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalVariables.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\GlobalVariables.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\GlobalVariables.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\GlobalVariables.vb",
+              "RelativeToolTip": "CATSPimCable\\GlobalVariables.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:11:28.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPlan.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\TestPlan.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\TestPlan.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\TestPlan.vb",
+              "RelativeToolTip": "CATSPimCable\\TestPlan.vb",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwIUAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:10:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestModules.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\TestModules.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\TestModules.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\TestModules.vb",
+              "RelativeToolTip": "CATSPimCable\\TestModules.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T03:52:48.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\My Project\\app.manifest",
+              "RelativeDocumentMoniker": "CATSPimCable\\My Project\\app.manifest",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\My Project\\app.manifest",
+              "RelativeToolTip": "CATSPimCable\\My Project\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-01-08T05:58:56.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmInterface.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmInterface.vb [Design]",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\frmInterface.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T02:39:31.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRetryReason.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormRetryReason.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormRetryReason.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormRetryReason.vb",
+              "RelativeToolTip": "CATSPimCable\\FormRetryReason.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAzwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-22T04:06:25.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormMain.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormMain.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormMain.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\CATSPimCable\\FormMain.vb [Design]",
+              "RelativeToolTip": "CATSPimCable\\FormMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T02:58:00.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\App.config",
+              "RelativeDocumentMoniker": "CATSPimCable\\App.config",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\App.config",
+              "RelativeToolTip": "CATSPimCable\\App.config",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-22T03:22:51.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmInterface.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\frmInterface.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:19:41.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsProcessCheck.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\clsProcessCheck.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\clsProcessCheck.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\clsProcessCheck.vb",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\clsProcessCheck.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T08:25:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmNewCable.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "ToolTip": "C:\\Users\\fenzhang\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmNewCable.vb [Design]",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\frmNewCable.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-03T03:54:57.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmNewCable.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\frmNewCable.vb",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-03T03:55:05.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsOperatorInterface.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\clsOperatorInterface.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\clsOperatorInterface.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\clsOperatorInterface.vb",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\clsOperatorInterface.vb",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAtwJ4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:30:08.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jwModuleAPI.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\jwModuleAPI.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\jwModuleAPI.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\jwModuleAPI.vb",
+              "RelativeToolTip": "CATSPimCable\\jwModuleAPI.vb",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAQwNIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T07:26:38.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\About.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\About.vb",
+              "ToolTip": "C:\\Users\\fenzhang\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\About.vb [Design]",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\About.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-03T03:06:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDebug.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormDebug.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormDebug.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormDebug.vb",
+              "RelativeToolTip": "CATSPimCable\\FormDebug.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-03T03:53:13.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyInfo.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\AssemblyInfo.vb",
+              "RelativeDocumentMoniker": "TestInterface\\RFPATestInterface.NET\\AssemblyInfo.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\TestInterface\\RFPATestInterface.NET\\AssemblyInfo.vb",
+              "RelativeToolTip": "TestInterface\\RFPATestInterface.NET\\AssemblyInfo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T02:21:45.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormGRR.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS PIM\\Cable\\trunk\\CATSPimCable\\FormGRR.vb",
+              "RelativeDocumentMoniker": "CATSPimCable\\FormGRR.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\01CATS Pim\\Cable\\trunk\\CATSPimCable\\FormGRR.vb [Design]",
+              "RelativeToolTip": "CATSPimCable\\FormGRR.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T03:03:29.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

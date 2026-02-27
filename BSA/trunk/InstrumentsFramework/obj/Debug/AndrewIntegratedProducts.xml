@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AndrewIntegratedProducts.InstrumentsFramework
+</name>
+</assembly>
+<members>
+<member name="T:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AndrewIntegratedProducts.InstrumentsFramework.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AndrewIntegratedProducts.InstrumentsFramework.SCPIInstrument.Timeout">
+ <summary>
+ Timeout in msec for Visa or Telnet Communication
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:AndrewIntegratedProducts.InstrumentsFramework.ARPSInstrument.Timeout">
+ <summary>
+ Timeout in msec for Visa or Telnet Communication
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

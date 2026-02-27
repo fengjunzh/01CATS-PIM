@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CATSPIM
+</name>
+</assembly>
+<members>
+<member name="T:CATSPIM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CATSPIM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CATSPIM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CATSPIM.Encryptor.EncryptStringToFile(System.String,System.String)">
+ <summary>
+ Encrypt input contents And write to file
+ </summary>
+ <param name="inputContents">Contents which Is needed to encrypt</param>
+ <param name="outputFilePath">Full path. Suggestion name Is *.dat</param>
+</member>
+<member name="M:CATSPIM.Encryptor.DecryptFromFile(System.String)">
+ <summary>
+ Decrypt from file
+ </summary>
+ <param name="filePath">File path which Is intended to decrypt</param>
+ <returns>Result string</returns>
+</member>
+</members>
+</doc>

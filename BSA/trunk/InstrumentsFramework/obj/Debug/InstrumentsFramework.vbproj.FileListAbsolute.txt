@@ -1,0 +1,49 @@
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\Interop.an3gppxLib.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.GenerateResource.Cache
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.xml
+C:\Work\02Project\02Automation_Projects\005Dll\PimAnalyzerInstrumentsFramework\trunk\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\AxInterop.SummitekPIM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Ivi.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\NationalInstruments.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Renci.SshNet.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\SeaMAX Dot Net.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\Ivi.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\NationalInstruments.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\Debug\SeaMAX Dot Net.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\Interop.an3gppxLib.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.ResolveComReference.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.FormComm.resources
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.Resources.resources
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.GenerateResource.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.CoreCompileInputs.cache
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\InstrumentsFramework.vbproj.CopyComplete
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\obj\Debug\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.InstrumentsFramework.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.InstrumentsFramework.pdb
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AndrewIntegratedProducts.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\AxInterop.SummitekPIM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Ivi.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Common.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Visa.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.VisaNS.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Renci.SshNet.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\SeaMAX Dot Net.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\Ivi.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Visa.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\SeaMAX Dot Net.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.NiLmClientDLL.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.MStudioCLM.dll
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.Common.xml
+C:\0XTX\SourceCode\Temp\PIM\InstrumentsFramework\bin\release\NationalInstruments.VisaNS.xml

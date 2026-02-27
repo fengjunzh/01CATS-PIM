@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TestMode>
+     <ModeName>NPI</ModeName>
+  </TestMode>
+  <Vibration>
+    <Enable>False</Enable>
+    <Address>COM3</Address>
+  </Vibration>
+  <RET>
+    <Enable>True</Enable>
+    <Address>USBDATC200-LITE-USB</Address>
+  </RET>
+  <Instruments>
+    <Enable>True</Enable>
+    <Vendor>Rosenberger</Vendor>
+    <Model>IM-0710</Model>
+    <BandIdx>2</BandIdx>
+    <Address>COM2</Address>
+    <BandName>LTE700</BandName>
+    <Tx1Loss>0</Tx1Loss>
+    <Tx2Loss>0</Tx2Loss>
+    <RxLoss>0</RxLoss>
+  </Instruments>
+</NewDataSet>
